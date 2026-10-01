@@ -1,6 +1,6 @@
 # The Leap
 
-A 90-minute synthesis session for people who have been thinking about a change for years and have not moved.
+A two-hour synthesis session for people who have been thinking about a change for years and have not moved.
 
 The skill is free. Built and used by [Cy Law](https://breakingcycles.life), ex-corporate, on the road since 2024, building Breaking Cycles in public. Same framework I use when I run live sessions for paying clients.
 
@@ -22,7 +22,7 @@ The result is a one-page read on you. 2 to 3 directions you could actually take,
 
 ## What you get
 
-A ~75-minute conversation with Claude. At the end, a short read-back of what came up, then a full written report. 2000 to 3000 words, 2 to 3 directions, each with a first move you can try this week.
+Two to two and a half hours with Claude, and you can stop and come back. Three short sets of background questions first, then one question at a time. At the end, a short read-back of what came up, then a full written report, usually 2,000 to 3,000 words, 2 to 3 directions, each with a first move you can try this week.
 
 The value is recognition plus sharpening, not surprise. The directions you walk away with are familiar, drawn from your own material, but more concrete and validated than you could articulate alone.
 
@@ -72,4 +72,4 @@ This skill lives at [github.com/breakingcyclesexe-debug/the-leap](https://github
 
 If you do something interesting with it, [tell me](https://breakingcycles.life).
 
-— Cy
+Cy
