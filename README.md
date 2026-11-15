@@ -1,6 +1,6 @@
 # The Leap
 
-A two-hour synthesis session for people who have been thinking about a change for years and have not moved.
+A two-hour session with Claude for people who have been thinking about a change for years and have not moved.
 
 The skill is free. Built and used by [Cy Law](https://breakingcycles.life), ex-corporate, on the road since 2024, building Breaking Cycles in public. Same framework I use when I run live sessions for paying clients.
 
